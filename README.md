@@ -1,7 +1,6 @@
 ## Salut a vous moi c'est *Dif Junior🙂*.  
 > Je suis **Etudiant en Informatique**
->
-
+>### Pasionné de *Programation*
 <!--
 **DifJunior/DifJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
