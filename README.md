@@ -1,7 +1,10 @@
 ## Salut a vous moi c'est *Dif Junior🙂*.  
 > Je suis **Etudiant en Informatique**
 >### Pasionné de *Programation* , de *sport* et *mangas*
-<img src="https://i.pinimg.com/474x/92/06/dc/9206dca48ddc7a5fecf26138c57b547a.jpg" alt="programmation">
+<img src="https://i.pinimg.com/474x/92/06/dc/9206dca48ddc7a5fecf26138c57b547a.jpg" alt="programmation"> 
+
+
+<img src="https://th.bing.com/th/id/R.ec38cf3d6fa9bbda4f2a3fd0eb38740c?rik=nsJJWzsraQn6OQ&pid=ImgRaw&r=0&sres=1&sresct=1" alt="programmation" width="50" heigth="50"><img src="https://th.bing.com/th/id/R.12644856e97889db8644e1c8cac2a426?rik=K1L5Z4p4p5pXUA&riu=http%3a%2f%2fbenjaminfevrat.com%2fpictures%2ftechnos_logo%2fcss_logo.png&ehk=eB%2bU19LWYMMG1m%2bGIInA%2bXGa6TI2yDz%2f8FJ08iKSX00%3d&risl=&pid=ImgRaw&r=0" alt="programmation" width="30" heigth="30"><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/c-2975-logo.png" alt="programmation" width="50" heigth="50"><img src="https://user-images.githubusercontent.com/121047503/208950842-09ed0730-fd33-4938-967a-bb5b83e1c0db.png" alt="programmation" width="50" heigth="50">
 <!--
 **DifJunior/DifJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
