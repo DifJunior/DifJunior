@@ -1,6 +1,7 @@
 ## Salut a vous moi c'est *Dif Junior🙂*.  
 > Je suis **Etudiant en Informatique**
 >### Pasionné de *Programation* , de *sport* et *mangas*
+<img src="https://i.pinimg.com/474x/92/06/dc/9206dca48ddc7a5fecf26138c57b547a.jpg" alt="programmation">
 <!--
 **DifJunior/DifJunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
